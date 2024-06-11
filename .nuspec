@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>System.Diagnostics.Abstractions.Enhanced</id>
+    <version>1.0.0</version>
+    <authors>craneiocz</authors>
+    <owners>craneiocz</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Interfaced wrappers around System Diagnostics.</description>
+    <tags>Diagnostics Abstraction EventLog</tags>
+  </metadata>
+</package>
